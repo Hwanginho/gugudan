@@ -21,5 +21,6 @@ public class GugudanTest {
 		int second = Integer.parseInt(guguValue[1]);
 		
 		print(first, second);
+		scanner.close();
 	}
 }

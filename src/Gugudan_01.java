@@ -37,5 +37,6 @@ public class Gugudan_01 {
 		
 		//3. 메서드를 이용한 입력구구단
 		gugudan(number);
+		scanner.close();
 	}
 }
